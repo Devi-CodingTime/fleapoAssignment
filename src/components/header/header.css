@@ -1,0 +1,172 @@
+.logo{
+    position: absolute;
+    width: 130.57px; 
+    height: 28.64px; 
+    left: 86.02px; 
+    top: 23.81px;
+    display: flex;
+}
+.subtract{
+/* position: absolute;
+width: 28.64px;
+height: 28.64px; 
+left: 86.02px;
+top: 23.81px;
+
+background: #000000; */
+height: 20px;
+width: 20px;
+border-radius: 50%;
+margin-top: 3px;
+}
+.faster{
+    position: absolute;
+    top: -3px;
+    left: 21px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Rectangle{
+box-sizing: border-box;
+position: absolute;
+width: 383.26px;
+height: 52.23px;
+left: 90px;
+/* left: 361.75px; */
+top: 12.29px;
+background: rgba(255, 255, 255, 0.6);
+border: 0.768056px solid #FFFFFF;
+border-radius: 15.3611px;
+}
+.home{
+position: absolute;
+width: 36px;
+height: 18px;
+left: 404.77px;
+top: 29.19px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12.2889px;
+line-height: 150%;
+color: #252432;
+}
+.about{
+position: absolute;
+width: 35px;
+height: 18px;
+left: 476.19px;
+top: 29.19px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12.2889px;
+line-height: 150%;
+color: #8987A1;
+}
+.work{
+position: absolute;
+width: 77px;
+height: 18px;
+left: 548.39px;
+top: 29.19px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12.2889px;
+line-height: 150%;
+color: #8987A1;
+}
+.service{
+position: absolute;
+width: 50px;
+height: 18px;
+left: 662.06px;
+top: 29.19px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12.2889px;
+line-height: 150%;
+color: #8987A1;
+}
+.signin{
+position: absolute;
+width: 39px;
+height: 18px;
+/* left: 865.6px; */
+top: 15.19px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 12.2889px;
+line-height: 150%;
+color: #8987A1;
+opacity: 0.8;
+
+}
+.signup{
+/* Group 27148 */
+
+position: absolute;
+width: 101.38px;
+height: 36.87px;
+left: 42.59px;
+top: 2.97px;
+background-color: blue;
+color: white;
+border-radius: 4px;
+}
+.signGRP{
+    position: absolute;
+    left: 940.6px;
+top: 29.19px;
+}
+.z-color{
+    /* Mask group */
+position: absolute;
+width: 492.09px;
+height: 771.3px;
+left: calc(50% - 492.09px/2 + 354.34px);
+top: -179.72px;
+filter: blur(38.4028px);
+transform: rotate(46.19deg);
+
+}
+.awesomeUI{
+    /* Group 27149 */
+
+position: absolute;
+width: 586.79px;
+height: 241.94px;
+left: calc(50% - 586.79px/2);
+top: 144.39px;
+}
+.para{
+    /* Awesome UI Dark Template for Webflow Agency */
+
+/* position: absolute; */
+width: 764px;
+height: 219px;
+/* left: calc(50% - 764px/2);
+top: calc(50% - 219px/2 - 2388px); */
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 73.344px;
+line-height: 100%;
+text-align: center;
+color: #252432;
+}
+.gettouch{
+/* Group 27147 */
+
+position: absolute;
+width: 211px;
+height: 60px;
+left: calc(50% - 46px/2 + 0.5px);
+top: 256px;
+background-color: black;
+border-radius: 5px;
+color: white;
+}
